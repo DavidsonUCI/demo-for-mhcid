@@ -1,0 +1,44 @@
+h1 {
+  font-size: 32px;
+  font-family: 'Alegreya SC', serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+h2 {
+  font-size: 24 px;
+  font-family: 'Gugi', cursive;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+h3 {
+  font-size: 20 px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+
+h4 {
+  font-size: 16 px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+
+h5 {
+  font-size: 14 px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+
+p {
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
