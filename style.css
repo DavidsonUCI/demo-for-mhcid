@@ -1,6 +1,6 @@
 h1 {
-  font-size: 32px;
-  font-family: 'Alegreya SC', serif;
+  font-size: 36px;
+  font-family: 'Roboto', serif;
   font-weight: bold;
   color: rgba(0,0,0,.7);
 }
@@ -14,7 +14,7 @@ h2 {
 
 h3 {
   font-size: 20 px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', serif;
   font-weight: bold;
   color: rgba(0,0,0,.7);
 }
@@ -22,7 +22,7 @@ h3 {
 
 h4 {
   font-size: 16 px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', serif;
   font-weight: bold;
   color: rgba(0,0,0,.7);
 }
@@ -30,7 +30,7 @@ h4 {
 
 h5 {
   font-size: 14 px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', serif;
   font-weight: bold;
   color: rgba(0,0,0,.7);
 }
@@ -41,4 +41,53 @@ p {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
   color: rgba(0,0,0,.7);
+}
+
+p.capstoneIntro {
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+ul {
+
+}
+
+li {
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  color: rgba(0,0,0,.7);
+}
+
+.jumbotron {
+  background-image: url("https://i.imgur.com/b3KUITE.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode:  overlay;
+  color: white;
+}
+.intro {
+  color: white;
+}
+
+.imageRow {
+  margin-bottom: 48px;
+}
+
+
+.card-title {
+  font-size: 16px;
+}
+
+
+
+.card-text {
+  font-size: 14px;
+}
+
+.card {
+  margin-bottom: 48px;
 }
